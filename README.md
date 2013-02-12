@@ -7,6 +7,6 @@ Usage
 -----
   
 Usage is pretty simple, there's 3 flags.  
--port=:8080 // Defines which port to use
--public=./  // Defines which directory to serve from
--help				// Displays the usage information with default values.
+-port=:8080 // Defines which port to use  
+-public=./  // Defines which directory to serve from  
+-help				// Displays the usage information with default values.  
